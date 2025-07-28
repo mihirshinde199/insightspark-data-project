@@ -1,8 +1,15 @@
+
 # 📊 InsightSpark Data Engineering & Analysis Project
 
 This project was developed as part of InsightSpark’s collaboration with CBA, focusing on structured and unstructured data handling, data privacy, and database design. It includes four key tasks that simulate real-world data engineering responsibilities.
 
 ---
+
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Tech Stack](https://img.shields.io/badge/tools-Python%20%7C%20Excel%20%7C%20Twitter%20API-blue)
+![License](https://img.shields.io/badge/license-Educational-lightgrey)
+![Tasks](https://img.shields.io/badge/tasks-4%20Completed-success)
+
 
 ## ✅ Tasks Overview
 
