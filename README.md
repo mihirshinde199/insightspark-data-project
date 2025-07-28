@@ -68,7 +68,6 @@ insightspark-data-project/
 │   └── README.md
 ├── Task 3 - Twitter Data Insights/
 │   ├── Commen_wealth_bank.ipynb
-│   ├── screenshots/
 │   └── README.md
 ├── Task 4 - Database Design/
 │   └── twitter_database_design.md
